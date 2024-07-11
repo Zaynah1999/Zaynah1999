@@ -1,4 +1,4 @@
-[!https://github.com/Zaynah1999/ZaynahAhmed/blob/main/Blue%20and%20White%20Y2K%20Old%20Cute%20Tech%20Window%20Note%20Card.gif]
+https://github.com/Zaynah1999/ZaynahAhmed/blob/main/Blue%20and%20White%20Y2K%20Old%20Cute%20Tech%20Window%20Note%20Card.gif
 I am currently a full stack developer specialising in .NET, C#, SQL and Javascript. Before my current role I worked with Python and AWS where I developed my passion for backend engineering. In my spare time I am currently working on full stack project whilst also expanding my Typescript knowledge. I am also open to collaborations so feel free to connect.
 
 # Skills
