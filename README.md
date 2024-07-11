@@ -1,5 +1,4 @@
-[[Blue and White Y2K Old Cute Tech Window Note Card.gif](https://github.com/Zaynah1999/ZaynahAhmed/blob/7b7b4ed61a98678b3a0e79c4145a6c269d65804a/Blue%20and%20White%20Y2K%20Old%20Cute%20Tech%20Window%20Note%20Card.gif)](https://github.com/Zaynah1999/ZaynahAhmed/blob/6014abf52bfa285f40c6b63899c13b8caeb2bd58/Blue%20and%20White%20Y2K%20Old%20Cute%20Tech%20Window%20Note%20Card.jpg)
-
+![Blue and White Y2K Old Cute Tech Window Note Card.jpg](https://github.com/Zaynah1999/ZaynahAhmed/blob/57f82f2a75e264f15dd305c080e0be3c2cc92ba4/Blue%20and%20White%20Y2K%20Old%20Cute%20Tech%20Window%20Note%20Card.jpg)
 
 I am currently a full stack developer specialising in .NET, C#, SQL and Javascript. Before my current role I worked with Python and AWS where I developed my passion for backend engineering. In my spare time I am currently working on full stack project whilst also expanding my Typescript knowledge. I am also open to collaborations so feel free to connect.
 
